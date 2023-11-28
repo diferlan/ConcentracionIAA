@@ -4,4 +4,4 @@ En este repositorio se encuentran las diferentes evidencias de la Concentración
 
 
 
---Momento de Retroalimentación: Módulo 2 Implementación de un modelo de deep learning. (Portafolio Implementación)
+--Momento de Retroalimentación: Módulo 2 Implementación de un modelo de deep learning. (Portafolio Implementación). La versión revisada de esta actividad se llama Concentración NN e incluye funciones para hacer predicciones con nuevas imagenes
