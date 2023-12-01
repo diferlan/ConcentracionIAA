@@ -1,5 +1,7 @@
 # ConcentracionIAA
 
+Link al repositorio: https://github.com/diferlan/ConcentracionIAA/tree/main
+
 En este repositorio se encuentran las diferentes evidencias de la Concentración en Inteligencia Artificial Avanzada, lo que incluye:
 
 
